@@ -14,22 +14,36 @@ div {
   background-color: blue;
 }
 
-#red {color:#f00;}
+#red {color:#f00;
+  
+}
 
-#orange {color:#ffa500;}
-
-
-#yellow {color:#ff0;}
-
-
-#green {color:#00bc3f;}
+#orange {color:#ffa500;
+  
+}
 
 
-#blue {color:#06f;}
+#yellow {color:#ff0;
+  
+}
 
 
-#indigo {color:#8a2be2;} 
+#green {color:#00bc3f;
+  
+}
 
 
-#violet {color:#d300c9;}
+#blue {color:#06f;
+  
+}
+
+
+#indigo {color:#8a2be2;
+  
+} 
+
+
+#violet {color:#d300c9;
+  
+}
 
